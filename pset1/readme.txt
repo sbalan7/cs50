@@ -1,0 +1,1 @@
+Problem Set 1 is a general introduction to programming with the common "Hello, World!" program. The Mario Problems are a set of nested loop problems. Cash deals with iterated numerical operations for the Luhn Algorithm. Credit is a problem involving evaluating complex conditions with checksums.
