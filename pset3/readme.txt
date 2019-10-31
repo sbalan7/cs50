@@ -1,0 +1,1 @@
+Problem Set 3 was a file reading exercise with specific focus on bitmap images. The whodunit and resize problems were about manipulating bitmpa files byte by byte, pixel by pixel. Recover problem was similar to a data recovery program to recover raw hexadecimal and convert it to a JPEG.
